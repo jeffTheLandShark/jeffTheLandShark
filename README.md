@@ -2,9 +2,9 @@
 ---
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffTheLandShark&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="160"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffTheLandShark&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffTheLandShark&layout=compact&theme=catppuccin_mocha&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffTheLandShark&rank_icon=percentile&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffTheLandShark&theme=dark" height="160"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffTheLandShark&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=20" height="200"/>
 </div>
 
 
@@ -46,3 +46,4 @@
 ### ✨ Thanks for stopping by! Feel free to explore, fork, or reach out.
 
 ![](https://hit.yhype.me/github/profile?account_id=48226618)
+
