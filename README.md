@@ -1,4 +1,3 @@
-# Leigh Goetsch
 ### Robotics • Embedded Systems • Machine Learning • Full-Stack Engineering
 ---
 
@@ -11,10 +10,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leigh-goetsch) <img src="https://komarev.com/ghpvc/?username=jeffTheLandShark&style=flat-square&color=blue"/>
 ---
-# Welcome to my GitHub!
-## ✨ About Me
+## 🦈 About Me
 - 🎓 **Milwaukee School of Engineering:** B.S. in CS (+ CE minor) '26 and M.S. in Machine Learning '27
 - ⚡Focused on engineering, autonomy, and clean technical design
+- 🌊 Shark enthusiast, board game strategist, and lover of Lilo & Stitch
 
 ### 💼 Experience
 - 🚀 Robot Operations Intern @ **NASA Jet Propulsion Laboratory** (Summer 2025)
@@ -25,7 +24,7 @@
 - 🚤 Software Vessel Controls Intern @ **Mercury Marine** (Summer 2024)
 - 🤖 Automation Intern @ **Metalcraft Automation Group** (Summer 2022-23)
 
-### 🔭 What I’m working on  
+### 🖥️ What I’m working on
 - **Senior Design:** autonomous litter-collection robot (“Litter Bot”)
 - **Advanced AI Projects (AY2026):** event-driven multi-agent RL, isolation trees from scratch
 - **MSOE AI Club:** technical articles on AI concepts
