@@ -16,7 +16,7 @@
 - 🌊 Shark enthusiast, board game strategist, and lover of Lilo & Stitch
 
 ### 💼 Experience
-- 🚀 Robot Operations Intern @ **NASA Jet Propulsion Laboratory** (Summer 2025)
+- 🚀 Robot Operations Software Intern @ **NASA Jet Propulsion Laboratory** (Summer 2025)
   > [Project: CADRE](https://www.nasa.gov/cooperative-autonomous-distributed-robotic-exploration-cadre/)</br>
   > [Related Tech: RSVP](https://www.techbriefs.com/component/content/article/17262-npo-48690)
 - ✈️ Software Engineering Intern @ **Astronautics Corporation of America** (Spring/Summer 2025)
